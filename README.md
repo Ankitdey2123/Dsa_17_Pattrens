@@ -13,12 +13,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
