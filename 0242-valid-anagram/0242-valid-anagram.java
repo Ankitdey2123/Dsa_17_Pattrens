@@ -1,31 +1,29 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
 
-        // Step 1: Length must be equal
-        if (s.length() != t.length()) {
-            return false;
-        }
-
-        int[] count1 = new int[26];
-        int[] count2 = new int[26];
-
-        // Step 2: Count frequency of first string
+       HashMap<Character, Integer> map1 = new LinkedHashMap<>();
+        HashMap<Character, Integer> map2 = new LinkedHashMap<>();
         for (int i = 0; i < s.length(); i++) {
-            count1[s.charAt(i) - 'a']++;
-        }
-
-        // Step 3: Count frequency of second string
-        for (int i = 0; i < t.length(); i++) {
-            count2[t.charAt(i) - 'a']++;
-        }
-
-        // Step 4: Compare frequencies
-        for (int i = 0; i < 26; i++) {
-            if (count1[i] != count2[i]) {
-                return false;
+            char ch = s.charAt(i);
+            if (map1.containsKey(ch)) {
+                map1.put(ch, map1.get(ch) + 1);
+            } else {
+                map1.put(ch, 1);
             }
         }
-
-        return true;
+        for (int i = 0; i < t.length(); i++) {
+            char ch = t.charAt(i);
+            if (map2.containsKey(ch)) {
+                map2.put(ch, map2.get(ch) + 1);
+            } else {
+                map2.put(ch, 1);
+            }
+        }
+        if(map1.equals(map2)){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 }
