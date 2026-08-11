@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0643-maximum-average-subarray-i) |
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
+| [3731-find-missing-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
+| [3731-find-missing-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
+| [3731-find-missing-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
