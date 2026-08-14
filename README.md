@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0643-maximum-average-subarray-i) |
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -96,8 +99,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
