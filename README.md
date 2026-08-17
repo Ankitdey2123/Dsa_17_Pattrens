@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
@@ -105,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
