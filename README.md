@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3731-find-missing-elements) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
