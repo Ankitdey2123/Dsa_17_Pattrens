@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0217-contains-duplicate) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
