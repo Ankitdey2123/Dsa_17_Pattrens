@@ -1,23 +1,14 @@
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
-        int left=0;
-        int count=0,maxCount=Integer.MIN_VALUE;
-        HashMap<Integer,Integer>map=new LinkedHashMap<>();
-        for(int right=0;right<nums.length;right++){
-            if(nums[right]>0){
-            if(map.containsKey(nums[right])){
-                map.put(nums[right],map.get(nums[right])+1);
+        int count=0,maxCount=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==1){
+                count++;
+                maxCount=Math.max(maxCount,count);
             }
             else{
-                map.put(nums[right],1);
-            }
-            count++;
-            }
-            else{
-                map.clear();
                 count=0;
             }
-            maxCount=Math.max(maxCount,count);
         }
         return maxCount;
     }
