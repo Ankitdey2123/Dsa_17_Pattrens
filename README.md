@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0137-single-number-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
