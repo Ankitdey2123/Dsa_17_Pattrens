@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0217-contains-duplicate) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
