@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0594-longest-harmonious-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3731-find-missing-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
