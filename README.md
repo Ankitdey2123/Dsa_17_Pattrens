@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
 | ------- |
