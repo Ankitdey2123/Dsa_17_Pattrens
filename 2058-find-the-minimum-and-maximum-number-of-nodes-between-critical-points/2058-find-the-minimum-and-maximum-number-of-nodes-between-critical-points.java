@@ -10,51 +10,49 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        int first = -1;       // Position of first critical point
-        int prevCritical = -1; // Position of previous critical point
-        int minDistance = Integer.MAX_VALUE;
-        int maxDistance = -1;
+        int[] ans = new int[2];
+        int idx = 1;
+        int f_idx = -1;
+        int l_idx = -1;
+        int min_dist = Integer.MAX_VALUE;
 
-        ListNode prev = head;
-        ListNode curr = head.next;
+        ListNode a = head;
+        ListNode b = a.next;
+        ListNode c = b.next;
+        if(c==null){     // 2 nodes only
+            ans[0] = -1;
+            ans[1] = -1;
+            return ans;
+        }
 
-        int position = 1;
-
-        while (curr != null && curr.next != null) {
-            ListNode next = curr.next;
-
-            // Check if current node is a local maximum or minimum
-            boolean isMax = curr.val > prev.val && curr.val > next.val;
-            boolean isMin = curr.val < prev.val && curr.val < next.val;
-
-            if (isMax || isMin) {
-                // First critical point
-                if (first == -1) {
-                    first = position;
+        while(c!=null){
+            if(b.val<a.val && b.val<c.val || b.val>a.val && b.val>c.val){
+                if(f_idx==-1) f_idx = idx;
+                if(l_idx!=-1) {
+                    int dist = idx - l_idx;
+                    min_dist = Math.min(dist,min_dist);
                 }
-
-                // Calculate distance from previous critical point
-                if (prevCritical != -1) {
-                    int distance = position - prevCritical;
-                    minDistance = Math.min(minDistance, distance);
-                }
-
-                prevCritical = position;
-
-                // Distance between first and current critical point
-                maxDistance = position - first;
+                l_idx = idx;
             }
 
-            prev = curr;
-            curr = next;
-            position++;
+            idx++;
+            a = a.next;
+            b = b.next;
+            c = c.next;
+
+               
         }
 
-        // Fewer than two critical points
-        if (minDistance == Integer.MAX_VALUE) {
-            return new int[] {-1, -1};
-        }
+        int max_dist = l_idx - f_idx; 
+        if(max_dist == 0)
+            max_dist = -1;
 
-        return new int[] {minDistance, maxDistance};
+        if(min_dist == Integer.MAX_VALUE)
+            min_dist = -1;
+
+        ans[0] = min_dist;
+        ans[1] = max_dist;
+
+         return ans;
     }
 }
