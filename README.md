@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3364-minimum-positive-sum-subarray) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2485-find-the-pivot-integer) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3875-construct-uniform-parity-array-i) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3028-ant-on-the-boundary) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3364-minimum-positive-sum-subarray) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
