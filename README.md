@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3707-equal-score-substrings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3707-equal-score-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3028-ant-on-the-boundary) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3707-equal-score-substrings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
