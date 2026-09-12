@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3364-minimum-positive-sum-subarray) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3483-unique-3-digit-even-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
