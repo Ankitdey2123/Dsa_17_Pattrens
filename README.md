@@ -397,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
