@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1757-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
