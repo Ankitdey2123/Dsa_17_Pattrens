@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2485-find-the-pivot-integer) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Trie
 |  |
 | ------- |
