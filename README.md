@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0904-fruit-into-baskets) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2389-longest-subsequence-with-limited-sum) |
