@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0643-maximum-average-subarray-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0594-longest-harmonious-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0977-squares-of-a-sorted-array) |
