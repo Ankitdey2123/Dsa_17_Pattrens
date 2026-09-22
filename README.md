@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0137-single-number-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0940-distinct-subsequences-ii) |
