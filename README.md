@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0367-valid-perfect-square) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
@@ -477,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3525-find-x-value-of-array-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
