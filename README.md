@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
