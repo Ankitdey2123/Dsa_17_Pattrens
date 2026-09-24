@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0169-majority-element) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0125-valid-palindrome) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0169-majority-element) |
