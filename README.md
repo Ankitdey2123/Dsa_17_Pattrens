@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0219-contains-duplicate-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0367-valid-perfect-square) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -510,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0204-count-primes) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
