@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0189-rotate-array) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
