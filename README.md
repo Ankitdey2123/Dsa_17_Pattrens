@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0219-contains-duplicate-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0441-arranging-coins) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Quicksort
@@ -491,4 +494,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
