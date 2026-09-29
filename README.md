@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0594-longest-harmonious-subsequence) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0594-longest-harmonious-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0881-boats-to-save-people](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0881-boats-to-save-people) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0940-distinct-subsequences-ii) |
