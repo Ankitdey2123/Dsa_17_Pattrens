@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1094-car-pooling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0881-boats-to-save-people](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1094-car-pooling) |
 | [3028-ant-on-the-boundary](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3498-reverse-degree-of-a-string) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -586,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
