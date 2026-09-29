@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0881-boats-to-save-people) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
