@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0203-remove-linked-list-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
