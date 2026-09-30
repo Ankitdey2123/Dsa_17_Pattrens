@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
