@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0144-binary-tree-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -530,14 +531,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
