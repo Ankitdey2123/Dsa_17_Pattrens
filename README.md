@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0881-boats-to-save-people) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0940-distinct-subsequences-ii) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
