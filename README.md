@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1002-find-common-characters) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
