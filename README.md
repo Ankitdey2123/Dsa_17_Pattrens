@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0485-max-consecutive-ones) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
@@ -678,4 +680,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
