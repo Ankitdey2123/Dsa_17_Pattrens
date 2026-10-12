@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0918-maximum-sum-circular-subarray) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0879-profitable-schemes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0940-distinct-subsequences-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1049-last-stone-weight-ii) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -703,5 +706,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
