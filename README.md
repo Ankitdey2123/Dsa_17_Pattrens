@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0128-longest-consecutive-sequence) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0191-number-of-1-bits) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1096-brace-expansion-ii) |
