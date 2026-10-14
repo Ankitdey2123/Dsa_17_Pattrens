@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2574-left-and-right-sum-differences) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3483-unique-3-digit-even-numbers) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2485-find-the-pivot-integer) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3525-find-x-value-of-array-ii) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
@@ -627,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Interactive
 |  |
 | ------- |
@@ -669,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1096-brace-expansion-ii) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Monotonic Queue
 |  |
 | ------- |
