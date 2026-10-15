@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0414-third-maximum-number) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
@@ -727,4 +731,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
 | [0879-profitable-schemes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
