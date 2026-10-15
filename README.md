@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0704-binary-search) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0518-coin-change-ii) |
 | [0879-profitable-schemes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -735,4 +738,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
