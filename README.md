@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0078-subsets) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0091-decode-ways) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3568-minimum-moves-to-clean-the-classroom) |
