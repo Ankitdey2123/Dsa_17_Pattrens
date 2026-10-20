@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -803,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
