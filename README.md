@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
