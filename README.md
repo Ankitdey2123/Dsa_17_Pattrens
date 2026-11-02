@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0494-target-sum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0594-longest-harmonious-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0881-boats-to-save-people](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0881-boats-to-save-people) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
