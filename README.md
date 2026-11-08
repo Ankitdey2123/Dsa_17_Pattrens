@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1094-car-pooling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1267-count-servers-that-communicate) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -658,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -697,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3841-palindromic-path-queries-in-a-tree) |
