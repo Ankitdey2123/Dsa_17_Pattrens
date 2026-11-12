@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3028-ant-on-the-boundary](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3432-count-partitions-with-even-sum-difference) |
