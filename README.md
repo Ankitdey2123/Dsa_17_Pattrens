@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2574-left-and-right-sum-differences) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2747-count-zero-request-servers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2747-count-zero-request-servers) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2747-count-zero-request-servers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3727-maximum-alternating-sum-of-squares) |
