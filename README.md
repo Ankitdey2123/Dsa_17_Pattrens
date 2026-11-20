@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3028-ant-on-the-boundary](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3028-ant-on-the-boundary) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3364-minimum-positive-sum-subarray) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2747-count-zero-request-servers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/3524-find-x-value-of-array-i) |
