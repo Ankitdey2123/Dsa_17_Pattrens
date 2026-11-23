@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -924,4 +928,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ankitdey2123/Dsa_17_Pattrens/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
